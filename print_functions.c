@@ -3,7 +3,7 @@
 /************************* PRINT CHAR *************************/
 /**
 * print_char - Prints a char
-* by Bereket Dereje and Thiobista Gedefaw
+* by Thiobista Gedefaw and Bereket Dereje
 * @types: List a of arguments
 * @buffer: Buffer array to handle print
 * @flags: Calculates active flags
