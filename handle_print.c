@@ -2,7 +2,7 @@
 
 /**
 * handle_print - Prints an argument based on its type
-* by Bereket Dereje and Thiobista Gedefaw
+* by Thiobista Gedefaw and Bereket Dereje
 * @fmt: Formatted string in which to print the arguments.
 * @list: list of arguments to be printed.
 * @ind: ind.
