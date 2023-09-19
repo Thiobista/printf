@@ -22,7 +22,7 @@
 
 /**
 * struct fmt - struct op
-* by Bereket Dereje and Thiobista Gedefaw
+* by Thiobista Gedefaw and Bereket Dereje
 *
 * @fmt: The format.
 * @fn: The function associated.
